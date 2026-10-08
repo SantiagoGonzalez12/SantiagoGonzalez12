@@ -25,8 +25,6 @@ I'm interested in software development, game development, 3D, and interactive ex
 - 🧩 I enjoy combining programming with creative and visual aspects of development.
 - 🚀 Always learning, experimenting and building.
 
----
-
 ## 🛠️ Technologies & Tools
 
 ### 💻 Development
@@ -44,8 +42,6 @@ I'm interested in software development, game development, 3D, and interactive ex
   <img src="https://skillicons.dev/icons?i=wordpress,gimp&perline=3" />
 </p>
 
----
-
 ## 🎮 Game Development
 
 Game development is the direction I want to take my career.
@@ -54,10 +50,7 @@ I've experimented with Unity, Unreal Engine and Blender, working on both program
 
 My long-term goal is to combine my software development background with game programming, gameplay systems, interactive experiences and 3D.
 
-«Current path:
-"DAM → Master's in Game Development → Game Developer"»
-
----
+Current path: `DAM → Master's in Game Development → Game Developer`
 
 ## 🚀 Featured Projects
 
@@ -65,36 +58,15 @@ My long-term goal is to combine my software development background with game pro
 
 A personal project focused on video game news, analysis, guides and comparisons.
 
-🔗 "awacatech.es" (https://awacatech.es/)
-
----
-
-<!--
-📅 PlanningAll
-
-A group event organization project developed as part of my studies.
-
-The idea is to make organizing events with friends easier by bringing together things that normally get scattered across group chats:
-
-- 📅 Event creation
-- 👥 Participant management
-- 🗳️ Date voting
-- ✅ Attendance management
-- 📋 Shared tasks and assignments
-- 🎙️ Voice interaction
-- 🤖 AI features
-- ♿ Accessibility
-
---->
+🔗 [awacatech.es](https://awacatech.es/)
 
 ## 🎨 3D & Creative Projects
 
 I also work on personal and academic projects involving 3D modelling, graphic design and 3D printing, combining technical development with creative work.
 
----
-
 ## 📚 Currently Learning
 
+```
 🎓 2º DAM @ EUSA
 │
 ├── 💻 Software Development
@@ -102,10 +74,9 @@ I also work on personal and academic projects involving 3D modelling, graphic de
 ├── 🎨 User Interfaces
 ├── 🐳 Development & Deployment
 └── 🎮 Game Development
+```
 
 I'm currently focused on improving my programming skills while exploring the technologies and workflows that can eventually lead me into the video game industry.
-
----
 
 ## 🧠 What I Like
 
@@ -116,8 +87,6 @@ I'm currently focused on improving my programming skills while exploring the tec
 - 🛠️ Building personal projects
 - 📚 Learning new technologies
 - 🤝 Team projects
-
----
 
 ## 📊 GitHub Stats
 
@@ -139,7 +108,6 @@ I'm currently focused on improving my programming skills while exploring the tec
 <!--- stats (end) -->
 
 <!---
-
 <p align="center">
   <i>🎮 Building today what I want to play tomorrow.</i>
 </p>
