@@ -1,114 +1,98 @@
 <h1 align="center">Hi 👋, I'm Santiago González</h1>
-<h3 align="center">🎮 Aspiring Game Developer · 💻 2º DAM Student · 🇪🇸 Seville, Spain</h3>
+<h3 align="center">🎮 Aspiring Game Developer · 💻 2nd-year DAM Student · 🇪🇸 Seville, Spain</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santiago-gonzalez12/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="santiago-gonzalez1"/></a>
-  <a href = "mailto:ggfpsanti@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ggfpsanti@gmail.com"  /></a>
+  <a href="https://www.linkedin.com/in/santiago-gonzalez12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ggfpsanti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://awacatech.es/">
+    <img src="https://img.shields.io/badge/AwacaTech-Website-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AwacaTech website" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SantiagoGonzalez12">
-    <img src="https://komarev.com/ghpvc/?username=SantiagoGonzalez12&label=Profile%20views&color=0e75b6&style=flat" alt="SantiagoGonzalez12" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SantiagoGonzalez12&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm Santiago González, a student currently in my second year of DAM (Desarrollo de Aplicaciones Multiplataforma) at EUSA.
+I'm a second-year **Multiplatform Application Development (DAM)** student at EUSA, based in Seville, Spain. I'm interested in software development, gameplay programming, interactive experiences, and 3D creation. I like combining technical problem-solving with creative ideas and learning by building projects.
 
-I'm interested in software development, game development, 3D, and interactive experiences. I enjoy learning by building projects, experimenting with new technologies and turning ideas into something functional.
-
-- 🎮 My main goal is to become a Game Developer.
-- 📚 After finishing DAM, I plan to continue my studies with a Master's degree in Game Development.
-- 🧩 I enjoy combining programming with creative and visual aspects of development.
-- 🚀 Always learning, experimenting and building.
+- 🎮 **Career goal:** become a Game Developer.
+- 🕹️ **Exploring:** Unity, Unreal Engine, and Blender.
+- 🧩 **I enjoy:** turning ideas into functional, interactive projects.
+- 📚 **Next step:** continue studying game development after DAM.
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Development
+### 💻 Software Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,sql,mysql,git,github,docker,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode&perline=8" alt="Java, HTML, CSS, JavaScript, MySQL, Git, GitHub and VS Code" />
 </p>
 
 ### 🎮 Game Development & 3D
+
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender&perline=3" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender&perline=3" alt="Unity, Unreal Engine and Blender" />
 </p>
 
-### 🌐 Other Tools
+### ⚙️ Infrastructure & Other Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress,gimp&perline=3" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,wordpress&perline=3" alt="Docker, Linux, WordPress and GitHub Actions" />
 </p>
 
-## 🎮 Game Development
+I also enjoy graphic design, experimenting with tools such as **GIMP**, and working on 3D modelling and 3D printing projects.
 
-Game development is the direction I want to take my career.
+## 🚀 Featured Project
 
-I've experimented with Unity, Unreal Engine and Blender, working on both programming and creative aspects of projects.
+### 🌐 [AwacaTech](https://awacatech.es/)
 
-My long-term goal is to combine my software development background with game programming, gameplay systems, interactive experiences and 3D.
+A personal project focused on **video game news, analysis, guides, and comparisons**. It brings together my interest in gaming, digital content, and building things for the web.
 
-Current path: `DAM → Master's in Game Development → Game Developer`
+## 🎓 Currently Learning
 
-## 🚀 Featured Projects
+As part of my DAM studies, I'm developing my skills in:
 
-### 🌐 AwacaTech
+- 💻 Application and software development
+- 🗄️ Database design and SQL
+- 🎨 User interface development
+- 🐳 Development workflows and deployment
+- 🎮 Game programming and interactive experiences
 
-A personal project focused on video game news, analysis, guides and comparisons.
+My current focus is strengthening my programming fundamentals while exploring the tools and workflows that could lead to a career in the video game industry.
 
-🔗 [awacatech.es](https://awacatech.es/)
+## 🧱 My GitHub in 3D
 
-## 🎨 3D & Creative Projects
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="My GitHub contributions visualized as a 3D grid of colorful blocks" width="100%" />
+</p>
 
-I also work on personal and academic projects involving 3D modelling, graphic design and 3D printing, combining technical development with creative work.
-
-## 📚 Currently Learning
-
-```
-🎓 2º DAM @ EUSA
-│
-├── 💻 Software Development
-├── 🗄️ Databases
-├── 🎨 User Interfaces
-├── 🐳 Development & Deployment
-└── 🎮 Game Development
-```
-
-I'm currently focused on improving my programming skills while exploring the technologies and workflows that can eventually lead me into the video game industry.
-
-## 🧠 What I Like
-
-- 🎮 Video games & game development
-- 💻 Programming
-- 🎨 3D modelling & digital design
-- 🧩 Problem solving
-- 🛠️ Building personal projects
-- 📚 Learning new technologies
-- 🤝 Team projects
+<p align="center"><sub>A year of contributions, rebuilt as a little world of blocks. Generated and refreshed with GitHub Actions.</sub></p>
 
 ## 📊 GitHub Stats
 
-<!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="60%" align="center">
-  
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoGonzalez12&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SantiagoGonzalez12&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!---
 <p align="center">
-  <i>🎮 Building today what I want to play tomorrow.</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiagoGonzalez12&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true" alt="Santiago's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGonzalez12&layout=compact&hide_border=true&theme=onedark&langs_count=8" alt="Most used programming languages" />
 </p>
---->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SantiagoGonzalez12&theme=dark&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SantiagoGonzalez12&theme=onedark&no-frame=true&no-bg=true&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+<p align="center"><i>🎮 Building today what I want to play tomorrow.</i></p>
