@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago González</h1>
+<h1 align="center">Hi, I'm Santiago González</h1>
 <h3 align="center">🎮 Aspiring Game Developer · 💻 2nd-year DAM Student · 🇪🇸 Seville, Spain</h3>
 
 <p align="center">
@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://awacatech.es/">
-    <img src="https://img.shields.io/badge/AwacaTech-Website-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AwacaTech website" />
+    <img src="https://img.shields.io/badge/AwacaTech-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AwacaTech website" />
+  </a>
+  <a href="https://santiagogonzalez12.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/📁_Portfolio-4638E8?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
@@ -68,15 +71,11 @@ As part of my DAM studies, I'm developing my skills in:
 
 My current focus is strengthening my programming fundamentals while exploring the tools and workflows that could lead to a career in the video game industry.
 
-## 🧱 My GitHub in 3D
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="My GitHub contributions visualized as a 3D grid of colorful blocks" width="100%" />
 </p>
-
-<p align="center"><sub>A year of contributions, rebuilt as a little world of blocks. Generated and refreshed with GitHub Actions.</sub></p>
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiagoGonzalez12&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true" alt="Santiago's GitHub statistics" />
